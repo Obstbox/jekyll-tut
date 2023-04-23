@@ -1,0 +1,27 @@
+body {
+  font-size: 120%;
+  font-family: Verdana, Arial, sans-serif;
+  background: #e4e4e4;
+}
+
+.current {
+  color: green;
+}
+
+a:link, a:visited {
+  text-decoration: none;
+}
+
+a {
+  color: #44a;
+}
+
+a:visited {
+  color: #44a;
+}
+
+a:hover {
+  color: #b2b;
+}
+
+/*# sourceMappingURL=styles.css.map */
